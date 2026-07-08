@@ -1,7 +1,9 @@
 # TOMA-Turkce-Okunabilirlik-ve-Metin-Analizi-Programi
 
 
-TOMA programını çalıştırmak için "TurkceOkunabilirlik" klasörünü indiriniz. 
+TOMA programını çalıştırmak için sağ taraftaki realeses bölümünden "TurkceOkunabilirlik" klasörünü indiriniz. 
+
+İndirdiğiniz klasörü ZIP'ten çıkartınız.
 
 Programı çalıştırabilmek için bilgisayarınızda "Eclipse Temurin JDK with Hotspot 25.03+9" Java programının kurulu olması gerekmektedir. Programın .exe dosyası klasör içinde yer almaktadır. 
 
